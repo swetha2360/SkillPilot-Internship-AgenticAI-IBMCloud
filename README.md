@@ -7,16 +7,15 @@ The internship's primary objective was to provide hands-on experience in emergin
 
 
 ## 📝 Table of Contents
-- Intern Details  
-- About the Internship  
-- Project: SkillPilot – Agentic AI for Personalized Course Pathways  
-- Problem Statement  
-- Proposed Solution  
-- ⚙️ Technology Stack  
-- 🚀 Project Workflow  
-- 📊 Results  
-- 📁 Repository Contents  
-
+- [Intern Details](#intern-details)  
+- [About the Internship](#about-the-internship)  
+- [Project: SkillPilot – Agentic AI for Personalized Course Pathways](#project-skillpilot--agentic-ai-for-personalized-course-pathways)  
+- [Problem Statement](#problem-statement)  
+- [Proposed Solution](#proposed-solution)  
+- [⚙️ Technology Stack](#️-technology-stack)  
+- [🚀 Project Workflow](#project-workflow)  
+- [📊 Results](#results)  
+- [📁 Repository Contents](#repository-contents)
 
 
 ## 👨‍💻 Intern Details
