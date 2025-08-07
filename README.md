@@ -107,8 +107,12 @@ SkillPilot successfully:
 
 ## 📁 Repository Contents
 
-| File | Description |
-|------|-------------|
-| `SkillPilot_AI_Agent.ipynb` | Agent design & logic using LangGraph and Watsonx |
+
+| File/Folder | Description |
+|-------------|-------------|
+| `SkillPilot_AI_Agent.ipynb` | Jupyter notebook for the AI Agent |
 | `Swetha-S-Cloud-IBM-Project.pdf` | Final project presentation |
-| `README.md` | This file |
+| `Problem-Statement-12.png` | Problem statement reference image |
+| `Getting Started with AI.pdf` | IBM SkillsBuild Course Certificate |
+| `Journey to Cloud.pdf` | IBM SkillsBuild Course Certificate |
+| `RAG Lab Completion.pdf` | AI Agent Lab Certificate |
