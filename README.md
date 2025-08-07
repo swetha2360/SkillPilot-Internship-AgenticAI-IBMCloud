@@ -1,4 +1,4 @@
-# IBM SkillsBuild 4-Week Internship on AI & Cloud Technologies
+## IBM SkillsBuild 4-Week Internship on AI & Cloud Technologies
 
 This repository documents the capstone project completed during the IBM SkillsBuild 4-Week Internship on AI & Cloud Technologies. This program is a collaborative initiative by the **Edunet Foundation**, **AICTE**, and **IBM SkillsBuild**.
 
@@ -17,14 +17,14 @@ The internship's primary objective was to provide hands-on experience in emergin
 - 📊 Results  
 - 📁 Repository Contents  
 
----
+
 
 ## 👨‍💻 Intern Details
 - **Name:** SWETHA SENTHILVEL
 - **Institute:** SHRI SAKTHIKAILASSH WOMEN'S COLLEGE 
 - **Duration:** 4 Weeks (15th July 2025 to 7th August 2025)
 
----
+
 
 ## 📖 About the Internship
 
@@ -41,7 +41,7 @@ This 4-week program provided practical skills in AI and Cloud Computing through:
 📌 **Completion Criteria:**  
 Successful completion required active participation, completion of at least two courses on IBM SkillsBuild, and the submission of a final project presentation. This internship was offered with no stipend.
 
----
+
 
 ## 💡 Project: SkillPilot – Agentic AI for Personalized Course Pathways
 
@@ -67,7 +67,7 @@ With an overwhelming number of online resources, students often struggle to find
   - Prompt Hub (Dynamic Prompting)  
   - IBM Agent Lab (Deployment)  
 
----
+
 
 ## 🚀 Project Workflow
 
@@ -86,7 +86,6 @@ With an overwhelming number of online resources, students often struggle to find
 - Interactive conversation interface  
 - Provides real-time learning path suggestions  
 
----
 
 ## 📊 Results
 
@@ -104,7 +103,7 @@ SkillPilot successfully:
 <img width="1919" height="972" alt="Screenshot 2025-08-01 003746" src="https://github.com/user-attachments/assets/5767ae5e-240b-47c8-b950-68789b0b8edd" />
 
 
----
+
 
 ## 📁 Repository Contents
 
