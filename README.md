@@ -4,7 +4,7 @@ This repository documents the capstone project completed during the IBM SkillsBu
 
 The internship's primary objective was to provide hands-on experience in emerging technologies, enhance employability, and build confidence by solving real-world challenges using IBM SkillsBuild and IBM Cloud platforms.
 
----
+
 
 ## 📝 Table of Contents
 - Intern Details  
@@ -56,7 +56,7 @@ With an overwhelming number of online resources, students often struggle to find
 - Recommending tailored course roadmaps  
 - Dynamically adapting based on progress  
 
----
+
 
 ## ⚙️ Technology Stack
 
