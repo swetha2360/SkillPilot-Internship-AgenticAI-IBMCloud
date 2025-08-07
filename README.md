@@ -115,4 +115,4 @@ SkillPilot successfully:
 | `Problem-Statement-12.png` | Problem statement reference image |
 | `Getting Started with AI.pdf` | IBM SkillsBuild Course Certificate |
 | `Journey to Cloud.pdf` | IBM SkillsBuild Course Certificate |
-| `RAG Lab Completion.pdf` | AI Agent Lab Certificate |
+| `RAG Lab Completion.pdf` | RAG Agent Lab Certificate |
