@@ -7,15 +7,15 @@ The internship's primary objective was to provide hands-on experience in emergin
 
 
 ## 📝 Table of Contents
-- [Intern Details](#intern-details)
-- [About the Internship](#about-the-internship)
-- [Project: SkillPilot – Agentic AI for Personalized Course Pathways](#project-skillpilot--agentic-ai-for-personalized-course-pathways)
-- [Problem Statement](#problem-statement)
-- [Solution Overview](#solution-overview)
-- [Technology Stack](#technology-stack)
-- [Project Workflow](#project-workflow)
-- [Results](#results)
-- [Repository Contents](#repository-contents)
+- [Intern Details](##intern-details)
+- [About the Internship](##about-the-internship)
+- [Project: SkillPilot – Agentic AI for Personalized Course Pathways](##project-skillpilot--agentic-ai-for-personalized-course-pathways)
+- [Problem Statement](##problem-statement)
+- [Solution Overview](##solution-overview)
+- [Technology Stack](##technology-stack)
+- [Project Workflow](##project-workflow)
+- [Results](##results)
+- [Repository Contents](##repository-contents)
 
 ## 👨‍💻 Intern Details
 - **Name:** SWETHA SENTHILVEL
